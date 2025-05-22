@@ -5,8 +5,9 @@
       "namespace": "android_app",
       "package_name": "io.github.potsdam_pnp.initiative_tracker",
       "sha256_cert_fingerprints":
-        ["37:ED:64:7C:7D:3B:53:8C:1F:C8:DC:42:28:EE:EB:98:7C:94:7A:31:CE:5B:7B:55:C2:6E:63:F4:07:90:51:BE",
-        "6D:FD:4C:1C:27:09:F7:97:70:3A:21:51:7F:7E:9A:1E:14:94:92:ED:D4:29:BE:64:DE:5C:DC:50:72:72:D6:91"
+        [ "37:ED:64:7C:7D:3B:53:8C:1F:C8:DC:42:28:EE:EB:98:7C:94:7A:31:CE:5B:7B:55:C2:6E:63:F4:07:90:51:BE",
+          "6D:FD:4C:1C:27:09:F7:97:70:3A:21:51:7F:7E:9A:1E:14:94:92:ED:D4:29:BE:64:DE:5C:DC:50:72:72:D6:91",
+          "3A:73:3B:BE:1F:F5:37:AE:6D:40:2F:B5:7F:CC:C6:E0:24:F9:64:00:27:C9:45:33:E9:D0:9E:1E:83:AC:00:49"
         ]
     }
   }
